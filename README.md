@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre
 
-Estudante de análise e desenvolvimento de sistemas e desenvolvedor back-end Java apaixonado por tecnologia e soluções e produtos inovadores que impulsionam as entregas de valor das organizações. Além de estar estudando tecnologias front-end em busca de ser fullstack.
+Estudante de análise e desenvolvimento de sistemas e desenvolvedor back-end Java.
 
 ## 🛠 Habilidades
 
