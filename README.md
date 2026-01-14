@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre
 
-Estudante de análise e desenvolvimento de sistemas e desenvolvedor back-end Java.
+Formado em análise e desenvolvimento de sistemas e desenvolvedor Full Stack React & Node
 
 ## 🛠 Habilidades
 
